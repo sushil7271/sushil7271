@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📊 GitHub Metrics
+
+![Metrics](./github-metrics.svg)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sushil7271&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sushil7271&theme=github_dark)
