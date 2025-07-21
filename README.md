@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 
 ![Metrics](./github-metrics.svg)
 
+![My GitHub Activity](./activity-radar.png)
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sushil7271&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sushil7271&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sushil7271&theme=github_dark)
